@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.logo {
+    width: 120px;
+}
+
+.card {
+    background: #fff;
+}
+
+.list-group-item {
+    margin-top: 10px;
+}
+
+.btn-primary {
+    border-radius: 50px;
+}
